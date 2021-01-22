@@ -44,7 +44,6 @@
               "version": "3.0.0"
             },
             {
-              "packager": "esp32",
               "name": "mkspiffs",
               "version": "0.2.3"
             }
