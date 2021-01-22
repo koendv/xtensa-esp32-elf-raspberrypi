@@ -28,7 +28,7 @@ Press OK.
 Open *Tools -> Board: -> Boards Manager*
 In the search field, type "ESP32". Install the "esp32" board package. Ignore any messages "Warning: forced trusting untrusted contributions".
 
-In the Tools menu select the ESP32 cores as compilation target. As an example, if using a SESP32 Wrover choose *Tools->Board: -> ESP32 Arduino->ESP32 Wrover Module* .
+In the Tools menu select the ESP32 cores as compilation target. As an example, if using an ESP32 Wrover choose *Tools->Board: -> ESP32 Arduino->ESP32 Wrover Module* .
 
 
 ## Notes
