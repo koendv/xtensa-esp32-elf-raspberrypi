@@ -21,7 +21,7 @@ This allows the use of unsigned packages like this one. Also tick "Verbose outpu
 
 Start  the Arduino IDE. In *File --> Preferences --> Additional Board Manager URLs:* paste the following url:
 ```
-https://github.com/koendv/xtensa-esp32-elf-raspberrypi/blob/master/package_esp32_dev_index.json
+https://raw.githubusercontent.com/koendv/xtensa-esp32-elf-raspberrypi/master/package_esp32_dev_index.json
 ```
 Press OK.
 
@@ -38,6 +38,8 @@ This esp32/esp32s2 gcc cross-compiler is for 64-bit raspberry only.
 Build script: [build.sh](build.sh). Uses [crosstool-ng](http://crosstool-ng.github.io/docs/).
 
 Packaging script: [pkg.sh](pkg.sh)
+
+Build mkspiffs script: [make_mkspiffs.sh](make_mkspiffs.sh)
 
 See expressif doc: [Setup linux toolchain from scratch](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup-scratch.html)
 
