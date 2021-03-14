@@ -35,7 +35,7 @@ In the Tools menu select the ESP32 cores as compilation target. As an example, i
 
 This esp32/esp32s2 gcc cross-compiler is for 64-bit raspberry only.
 
-Build script: [build.sh](build.sh). Uses [crosstool-ng](http://crosstool-ng.github.io/docs/).
+Build script: [build.sh](build.sh). Uses [crosstool-ng](http://crosstool-ng.github.io/docs/). Downloads and builds source in current directory. 
 
 Packaging script: [pkg.sh](pkg.sh)
 
