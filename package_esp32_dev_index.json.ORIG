@@ -1214,13 +1214,6 @@
               "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2020r3-linux-armel.tar.gz",
               "checksum": "SHA-256:6771e011dffa2438ef84ff3474538b4a69df8f9d4cfae3b3707ca31c782ed7db",
               "size": "83888892"
-            },
-            {
-              "host": "aarch64-linux-gnueabihf",
-              "url": "https://github.com/koendv/xtensa-esp32-elf-raspberrypi/releases/download/v8.4.0-2020r3/xtensa-esp32-elf-linux-aarch64-2020r3.tar.gz",
-              "archiveFileName": "xtensa-esp32-elf-linux-aarch64-2020r3.tar.gz",
-              "checksum": "SHA-256:bac7268276ada14c573004ce4808cb2703c441b3d0a6fa917af5f79aaf9664e1",
-              "size": "86011652"
             }
           ]
         },
@@ -1399,13 +1392,6 @@
               "archiveFileName": "xtensa-esp32s2-elf-gcc8_4_0-esp-2020r3-linux-armel.tar.gz",
               "checksum": "SHA-256:6c1efec4c7829202279388ccb388e8a17a34464bc351d677c4f04d95ea4b4ce0",
               "size": "84254468"
-            },
-            {
-              "host": "aarch64-linux-gnueabihf",
-              "url": "https://github.com/koendv/xtensa-esp32-elf-raspberrypi/releases/download/v8.4.0-2020r3/xtensa-esp32s2-elf-linux-aarch64-2020r3.tar.gz",
-              "archiveFileName": "xtensa-esp32s2-elf-linux-aarch64-2020r3.tar.gz",
-              "checksum": "SHA-256:eeb2d378185d588bd2e307c81b5ba3e298f0ce1fb2c82db25d2362e1cf24f94a",
-              "size": "86253197"
             }
           ]
         },
@@ -1440,13 +1426,6 @@
               "archiveFileName": "riscv32-esp-elf-gcc8_4_0-crosstool-ng-1.24.0-123-g64eb9ff-linux-armel.tar.gz",
               "checksum": "SHA-256:8ae098751b5196ca8a80d832cc9930bc4d639762a6cb22be3cfe0a8d71b2f230",
               "size": "150801079"
-            },
-            {
-              "host": "aarch64-linux-gnueabihf",
-              "url": "https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/download/v8.3.0-2.3/xpack-riscv-none-embed-gcc-8.3.0-2.3-linux-arm64.tar.gz",
-              "archiveFileName": "xpack-riscv-none-embed-gcc-8.3.0-2.3-linux-arm64.tar.gz",
-              "checksum": "SHA-256:7bd7fdeb93481f60271f7d3fb39e41ed7599c9a2f7d03cd1313585ca1f75952d",
-              "size": "361351380"
             }
           ]
         },
@@ -1710,10 +1689,10 @@
             },
             {
               "host": "aarch64-linux-gnu",
-              "url": "https://github.com/koendv/xtensa-esp32-elf-raspberrypi/releases/download/v8.4.0-2020r3/mkspiffs-0.2.3-arduino-esp8266-linux-aarch64.tar.gz",
-              "archiveFileName": "mkspiffs-0.2.3-arduino-esp8266-linux-aarch64.tar.gz",
-              "checksum": "SHA-256:00a095759d2fd38e49ea8ab3e46559acb940a6233390782f2f261f4ab1af0ec3",
-              "size": "459996"
+              "url": "https://github.com/igrr/mkspiffs/releases/download/0.2.3/mkspiffs-0.2.3-arduino-esp32-linux-armhf.tar.gz",
+              "archiveFileName": "mkspiffs-0.2.3-arduino-esp32-linux-armhf.tar.gz",
+              "checksum": "SHA-256:ade3dc00117912ac08a1bdbfbfe76b12d21a34bc5fa1de0cfc45fe7a8d0a0185",
+              "size": "40665"
             }
           ]
         },
