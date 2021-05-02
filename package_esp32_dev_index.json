@@ -1216,7 +1216,7 @@
               "size": "83888892"
             },
             {
-              "host": "aarch64-linux-gnueabihf",
+              "host": "aarch64-linux-gnu",
               "url": "https://github.com/koendv/xtensa-esp32-elf-raspberrypi/releases/download/v8.4.0-2020r3/xtensa-esp32-elf-linux-aarch64-2020r3.tar.gz",
               "archiveFileName": "xtensa-esp32-elf-linux-aarch64-2020r3.tar.gz",
               "checksum": "SHA-256:bac7268276ada14c573004ce4808cb2703c441b3d0a6fa917af5f79aaf9664e1",
@@ -1401,7 +1401,7 @@
               "size": "84254468"
             },
             {
-              "host": "aarch64-linux-gnueabihf",
+              "host": "aarch64-linux-gnu",
               "url": "https://github.com/koendv/xtensa-esp32-elf-raspberrypi/releases/download/v8.4.0-2020r3/xtensa-esp32s2-elf-linux-aarch64-2020r3.tar.gz",
               "archiveFileName": "xtensa-esp32s2-elf-linux-aarch64-2020r3.tar.gz",
               "checksum": "SHA-256:eeb2d378185d588bd2e307c81b5ba3e298f0ce1fb2c82db25d2362e1cf24f94a",
@@ -1442,7 +1442,7 @@
               "size": "150801079"
             },
             {
-              "host": "aarch64-linux-gnueabihf",
+              "host": "aarch64-linux-gnu",
               "url": "https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/download/v8.3.0-2.3/xpack-riscv-none-embed-gcc-8.3.0-2.3-linux-arm64.tar.gz",
               "archiveFileName": "xpack-riscv-none-embed-gcc-8.3.0-2.3-linux-arm64.tar.gz",
               "checksum": "SHA-256:7bd7fdeb93481f60271f7d3fb39e41ed7599c9a2f7d03cd1313585ca1f75952d",
